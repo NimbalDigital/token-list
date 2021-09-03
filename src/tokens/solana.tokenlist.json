@@ -11876,23 +11876,6 @@
         "twitter": "https://twitter.com/LidoFinance/"
       }
     }
-    {
-      "chainId": 101,
-      "address": "Ap4dJBv6tZnJBLKRzUwyLvjJK7MFWLypWxxZejpt9s8",
-      "symbol": "NIM",
-      "name": "Nimbal SOL",
-      "decimals": 0,
-      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Ap4dJBv6tZnJBLKRzUwyLvjJK7MFWLypWxxZejpt9s8/logo.png",
-      "tags": [
-        "stablecoin"
-      ],
-      "extensions": {
-        "website": "https://nimbaldigital.com/",
-        "twitter": "https://twitter.com/LidoFinance/"
-    }
-    },
-    
-    
   ],
   "version": {
     "major": 0,
